@@ -1,0 +1,24 @@
+{
+  "name": "Mundialhito",
+  "short_name": "Mundialhito",
+  "description": "Tracker personal de fútbol",
+  "start_url": "/mundialhito/",
+  "display": "standalone",
+  "background_color": "#0A0F0D",
+  "theme_color": "#0A0F0D",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
